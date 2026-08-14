@@ -1,0 +1,24 @@
+{
+  "versionName": "2.1",
+  "versionCode": 21,
+  "apkUrl": "https://YOUR-SITE.netlify.app/apks/Birthday-Pro-v2.1.apk",
+  "sizeMb": 8.2,
+  "minSdk": "Android 8.0+",
+  "releasedOn": "2026-07-20",
+  "changelog": [
+    {
+      "version": "2.1",
+      "date": "Jul 20",
+      "notes": [
+        "Yearly recap cards",
+        "Gift idea notes per contact",
+        "Performance improvements"
+      ]
+    },
+    {
+      "version": "2.0",
+      "date": "May 15",
+      "notes": ["Countdown home screen widget", "Redesigned contact list"]
+    }
+  ]
+}
