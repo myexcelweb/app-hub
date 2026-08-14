@@ -6,7 +6,7 @@
 // {
 //   "versionName": "1.4",
 //   "versionCode": 14,
-//   "apkUrl": "https://YOUR-SITE.netlify.app/apks/Calendar-Plus-v1.4.apk",
+//   "apkUrl": "https://app-store-hp.netlify.app/apks/Calendar-Plus-v1.4.apk",
 //   "sizeMb": 6.8,
 //   "minSdk": "Android 8.0+",
 //   "releasedOn": "2026-08-01",
@@ -26,8 +26,8 @@ export const APPS = [
     icon: "CalendarDays",
     accent: "#F5B942",
     accent2: "#FF6F59",
-    updateJsonUrl: "https://YOUR-SITE.netlify.app/update/calendar-plus.json",
-    fallbackApkUrl: "https://YOUR-SITE.netlify.app/apks/Calendar-Plus-v1.4.apk",
+    updateJsonUrl: "https://app-store-hp.netlify.app/update/calendar-plus.json",
+    fallbackApkUrl: "https://app-store-hp.netlify.app/apks/Calendar-Plus-v1.4.apk",
   },
   {
     id: "birthday-pro",
@@ -38,8 +38,8 @@ export const APPS = [
     icon: "PartyPopper",
     accent: "#FF4FA3",
     accent2: "#2FD9C4",
-    updateJsonUrl: "https://YOUR-SITE.netlify.app/update/birthday-pro.json",
-    fallbackApkUrl: "https://YOUR-SITE.netlify.app/apks/Birthday-Pro-v2.1.apk",
+    updateJsonUrl: "https://app-store-hp.netlify.app/update/birthday-pro.json",
+    fallbackApkUrl: "https://app-store-hp.netlify.app/apks/Birthday-Pro-v2.1.apk",
   },
 
   // Example of a third app — copy this block and edit to add more:
@@ -51,7 +51,7 @@ export const APPS = [
   //   icon: "Smartphone",       // any icon name from lucide-react
   //   accent: "#7C9EFF",
   //   accent2: "#4CD3C2",
-  //   updateJsonUrl: "https://YOUR-SITE.netlify.app/update/your-next-app.json",
-  //   fallbackApkUrl: "https://YOUR-SITE.netlify.app/download/your-next-app",
+  //   updateJsonUrl: "https://app-store-hp.netlify.app/update/your-next-app.json",
+  //   fallbackApkUrl: "https://app-store-hp.netlify.app/download/your-next-app",
   // },
 ];

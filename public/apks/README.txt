@@ -4,4 +4,4 @@ Drop your built APKs in this folder before deploying, e.g.:
 
 Then make sure the "apkUrl" field in each app's update.json
 (in /public/update/) points at the deployed path, e.g.:
-  https://YOUR-SITE.netlify.app/apks/Calendar-Plus-v1.4.apk
+  https://app-store-hp.netlify.app/apks/Calendar-Plus-v1.4.apk

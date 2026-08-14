@@ -47,7 +47,7 @@ examples). Shape:
 {
   "versionName": "1.4",
   "versionCode": 14,
-  "apkUrl": "https://YOUR-SITE.netlify.app/apks/Calendar-Plus-v1.4.apk",
+  "apkUrl": "https://app-store-hp.netlify.app/apks/Calendar-Plus-v1.4.apk",
   "sizeMb": 6.8,
   "minSdk": "Android 8.0+",
   "releasedOn": "2026-08-01",
