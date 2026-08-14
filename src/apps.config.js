@@ -6,7 +6,7 @@
 // {
 //   "versionName": "1.4",
 //   "versionCode": 14,
-//   "apkUrl": "https://app-store-hp.netlify.app/apks/Calendar-Plus-v1.4.apk",
+//   "apkUrl": "https://app-store-hp.netlify.app/apks/Calendar-Plus.apk",
 //   "sizeMb": 6.8,
 //   "minSdk": "Android 8.0+",
 //   "releasedOn": "2026-08-01",
@@ -27,7 +27,7 @@ export const APPS = [
     accent: "#F5B942",
     accent2: "#FF6F59",
     updateJsonUrl: "https://app-store-hp.netlify.app/update/calendar-plus.json",
-    fallbackApkUrl: "https://app-store-hp.netlify.app/apks/Calendar-Plus-v1.4.apk",
+    fallbackApkUrl: "https://app-store-hp.netlify.app/apks/Calendar-Plus.apk",
   },
   {
     id: "birthday-pro",
@@ -39,7 +39,7 @@ export const APPS = [
     accent: "#FF4FA3",
     accent2: "#2FD9C4",
     updateJsonUrl: "https://app-store-hp.netlify.app/update/birthday-pro.json",
-    fallbackApkUrl: "https://app-store-hp.netlify.app/apks/Birthday-Pro-v2.1.apk",
+    fallbackApkUrl: "https://app-store-hp.netlify.app/apks/Birthday-Pro.apk",
   },
 
   // Example of a third app — copy this block and edit to add more:
