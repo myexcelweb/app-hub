@@ -1,12 +1,19 @@
 {
-  "versionName": "4.7.5",
-  "versionCode": 40,
+  "versionName": "4.7.6",
+  "versionCode": 41,
   "apkUrl": "https://app-store-hp.netlify.app/apks/Calendar-Plus.apk",
-  "sha256": "d4be73bf90e5371fef68556fa8c6246b85931f5b7f759ab5afd70d13025ed72a",
+  "sha256": "371bd1c209b5d1aef00cc0da8b8dc488bcfa11e6dea50816a4e3d6ff0204c2ed",
   "sizeMb": 7.3,
   "minSdk": "Android 8.0+",
   "releasedOn": "2026-09-29",
   "changelog": [
+    {
+      "version": "4.7.6",
+      "date": "Sep 29",
+      "notes": [
+        "Test release for the in-app update"
+      ]
+    },
     {
       "version": "4.7.5",
       "date": "Sep 29",
