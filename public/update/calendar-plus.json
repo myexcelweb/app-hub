@@ -1,29 +1,19 @@
 {
-  "versionName": "1.4",
-  "versionCode": 14,
+  "versionName": "4.7.3",
+  "versionCode": 38,
   "apkUrl": "https://app-store-hp.netlify.app/apks/Calendar-Plus.apk",
-  "sizeMb": 6.8,
+  "sizeMb": 7.3,
   "minSdk": "Android 8.0+",
-  "releasedOn": "2026-08-01",
+  "releasedOn": "2026-09-29",
   "changelog": [
     {
-      "version": "1.4",
-      "date": "Aug 1",
+      "version": "4.7.3",
+      "date": "Sep 29",
       "notes": [
-        "Faster in-app update check",
-        "Fixed missed reminders on some devices",
-        "New candle-themed notification icon"
+        "The app now tells you when a new version is available",
+        "Calendar week now starts on Sunday",
+        "Larger calendar text"
       ]
-    },
-    {
-      "version": "1.3",
-      "date": "Jun 12",
-      "notes": ["Widget for upcoming birthdays", "Minor bug fixes"]
-    },
-    {
-      "version": "1.2",
-      "date": "Apr 3",
-      "notes": ["Import contacts' birthdays in one tap", "Dark mode"]
     }
   ]
 }
