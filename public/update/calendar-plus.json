@@ -1,11 +1,19 @@
 {
-  "versionName": "4.7.3",
-  "versionCode": 38,
+  "versionName": "4.7.4",
+  "versionCode": 39,
   "apkUrl": "https://app-store-hp.netlify.app/apks/Calendar-Plus.apk",
   "sizeMb": 7.3,
   "minSdk": "Android 8.0+",
   "releasedOn": "2026-09-29",
   "changelog": [
+    {
+      "version": "4.7.4",
+      "date": "Sep 29",
+      "notes": [
+        "App version is now shown in Settings",
+        "New \"Check for updates\" option in Settings"
+      ]
+    },
     {
       "version": "4.7.3",
       "date": "Sep 29",
