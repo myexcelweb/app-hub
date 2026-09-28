@@ -1,12 +1,20 @@
 {
-  "versionName": "4.7.6",
-  "versionCode": 41,
+  "versionName": "4.7.7",
+  "versionCode": 42,
   "apkUrl": "https://app-store-hp.netlify.app/apks/Calendar-Plus.apk",
-  "sha256": "371bd1c209b5d1aef00cc0da8b8dc488bcfa11e6dea50816a4e3d6ff0204c2ed",
+  "sha256": "559ff1f1a80588a7708bb4fd25b62e4e6fb5e9e572914861464bd04bf25d90c7",
   "sizeMb": 7.3,
   "minSdk": "Android 8.0+",
   "releasedOn": "2026-09-29",
   "changelog": [
+    {
+      "version": "4.7.7",
+      "date": "Sep 29",
+      "notes": [
+        "Sunday heading in the calendar is now red, like Sunday dates",
+        "Share dialog now says Calendar Plus"
+      ]
+    },
     {
       "version": "4.7.6",
       "date": "Sep 29",
