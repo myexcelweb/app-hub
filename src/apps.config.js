@@ -20,9 +20,9 @@ export const APPS = [
   {
     id: "calendar-plus",
     name: "Calendar Plus",
-    tagline: "Never miss a birthday again.",
+    tagline: "Holidays, leaves and birthdays in one calendar.",
     description:
-      "Reminds you before the day arrives, not on it. Import contacts, set gift notes, get a nudge every year.",
+      "See public holidays, optional leaves and extra working days at a glance, with monthly notes and birthday reminders. Holiday data updates live, no app update needed.",
     icon: "CalendarDays",
     accent: "#F5B942",
     accent2: "#FF6F59",
